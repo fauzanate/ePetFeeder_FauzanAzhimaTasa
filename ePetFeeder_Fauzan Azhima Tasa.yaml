@@ -1,0 +1,39 @@
+swagger: '2.0'
+info:
+  version: '1.0'
+  title: API
+  contact: {}
+host: example.com
+basePath: /
+securityDefinitions: {}
+schemes:
+  - http
+consumes:
+  - application/json
+produces:
+  - application/json
+paths: {}
+definitions:
+  RootType:
+    title: RootType
+    type: object
+    properties:
+      data:
+        example:
+          'ePet Feeder: ': Pakan Keluar
+          'Humidity: ': 56
+          'Temperature: ': 27.5
+          'Jarak: ': 59.959
+          'Kapasitas: ': Kapasitas Kosong
+        type: string
+      ri:
+        example: cin-9J3qqBu6FxpRasIv30qArznrBiRGwfXC
+        type: string
+      time:
+        example: '2023-06-25T05:21:01.000Z'
+        type: string
+    required:
+      - data
+      - ri
+      - time
+tags: []
