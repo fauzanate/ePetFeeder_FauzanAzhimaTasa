@@ -1,5 +1,7 @@
 # ePetFeeder_FauzanAzhimaTasa
 
+ePetFeeder merupkan sistem pemberi pakan otomatis dengan mamanfaatkan sistem IoT (Internet of Things). <br>
+
 Cara penggunaan code: <br>
 1. Buka seluruh code pada tab yang sama pada Arduino IDE <br>
 ![image](https://github.com/fauzanate/ePetFeeder_FauzanAzhimaTasa/assets/120632453/3de7e00f-a063-4ffe-9b82-30baa55acf74)
@@ -9,7 +11,7 @@ Cara penggunaan code: <br>
 ![image](https://github.com/fauzanate/ePetFeeder_FauzanAzhimaTasa/assets/120632453/998273c1-ac2d-4f43-806d-2c3514fe112c)
 
 
-ePetFeeder merupkan sistem pemberi pakan otomatis dengan mamanfaatkan sistem IoT (Internet of Things). <br>
+
 1. Modul mainCode <br>
    Modul ini merupakan gabungan dari seluruh code yang digunakan. <br>
 2. Modul dhtCode <br>
