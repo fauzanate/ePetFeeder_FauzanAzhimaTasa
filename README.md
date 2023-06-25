@@ -10,8 +10,8 @@ Cara penggunaan code: <br>
    kelembapan, suhu, dan jarak.  
 ![image](https://github.com/fauzanate/ePetFeeder_FauzanAzhimaTasa/assets/120632453/998273c1-ac2d-4f43-806d-2c3514fe112c)
 
-
-
+<br>
+Deskripsi code: <br>
 1. Modul mainCode <br>
    Modul ini merupakan gabungan dari seluruh code yang digunakan. <br>
 2. Modul dhtCode <br>
