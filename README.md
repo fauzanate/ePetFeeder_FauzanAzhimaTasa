@@ -17,7 +17,8 @@ Cara penggunaan code: <br>
 2. Modul dhtCode <br>
    Modul ini merupakan kode program untuk memonitoring suhu dan kelembapan. Fungsi dari modul ini adalah untuk memonitoring kandang. Jika kelembapan dan suhu dibawah atau di atas normal, maka buzzer akan berbunyi. <br>
 3. Modul ntpCode <br>
-   Modul ini merupakan kode progran untuk menampilkan date and time zona waktu (Waktu Indonesia Bagian Barat). Penggunaan NTP ini harus connect ke jaringan internet. Fungsinya pada sistem ini adalah untuk memberikan kondisi kapan waktu pemberian pakan perharinya. <br>
+   Modul ini merupakan kode progran untuk menampilkan date and time zona waktu (Waktu Indonesia Bagian Barat). Penggunaan NTP ini harus connect ke jaringan internet. Fungsinya pada sistem ini adalah untuk memberikan kondisi 
+   kapan waktu pemberian pakan perharinya. <br>
 4. Modul sdCardCode <br>
    Modul ini merupakan kode program untuk menyimpan data yang telah ter-record olah sensor. Data yang di simpan yaitu: date and time, kelembapan, suhu, dan jarak. <br>
 5. Modul serialInterfaceCode <br>
