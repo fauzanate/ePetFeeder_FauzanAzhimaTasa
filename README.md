@@ -3,7 +3,7 @@
 ePetFeeder merupkan sistem pemberi pakan otomatis dengan mamanfaatkan sistem IoT (Internet of Things). <br>
 
 Cara penggunaan code: <br>
-1. Buka seluruh code pada tab yang sama pada Arduino IDE <br>
+1. Buka seluruh code .ino pada tab yang sama pada Arduino IDE <br>
 ![image](https://github.com/fauzanate/ePetFeeder_FauzanAzhimaTasa/assets/120632453/69543c7d-4075-4ad7-907d-0498c68ca87a)
 
 2. Penggunaan IoT Platform menggunakan Antares <br>
