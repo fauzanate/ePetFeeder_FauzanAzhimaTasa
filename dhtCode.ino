@@ -6,7 +6,7 @@ void dhtCode(){
   hum = dht.readHumidity();      // Baca kelembapan
   temp = dht.readTemperature();  // Baca temperatur
   if (isnan(hum) || isnan(temp)) {     // Cek jika sensor error
-      Serial.println("Gagal Membaca DHT sensor! UUHUYYYY MEIIIIII 2024");
+      Serial.println("Gagal Membaca DHT sensor! UUHUYYYY MEIIIIII 2024 Tegar");
       return;
   }
   if (hum < 55.00 && temp < 29.00){
