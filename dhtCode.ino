@@ -6,7 +6,7 @@ void dhtCode(){
   hum = dht.readHumidity();      // Baca kelembapan
   temp = dht.readTemperature();  // Baca temperatur
   if (isnan(hum) || isnan(temp)) {     // Cek jika sensor error
-      Serial.println("Gagal Membaca DHT sensor!");
+      Serial.println("Gagal Membaca DHT sensor! UUHUYYYY");
       return;
   }
   if (hum < 55.00 && temp < 29.00){
@@ -25,3 +25,5 @@ void dhtCode(){
     antares.add ("Status Kandang",lebih); 
   }
 }
+
+// TEST REPO
